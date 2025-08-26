@@ -4,7 +4,7 @@ import PixelButton from "@/components/PixelButton";
 export default function Home() {
   return (
     <main className="max-w-6xl mx-auto px-4 py-16 crt">
-      <section className="text-center">
+      <section className="text-center mt-11">
         <h1 className="font-arcade text-2xl md:text-3xl">
           SAW SIMON LINN
           <br /> <span className="text-cyan">FRONTEND</span>{" "}
