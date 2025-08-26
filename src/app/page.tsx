@@ -6,7 +6,8 @@ export default function Home() {
     <main className="max-w-6xl mx-auto px-4 py-16 crt">
       <section className="text-center">
         <h1 className="font-arcade text-2xl md:text-3xl">
-          — SAW SIMON LINN —<br /> <span className="text-cyan">FRONTEND</span>{" "}
+          SAW SIMON LINN
+          <br /> <span className="text-cyan">FRONTEND</span>{" "}
           <span className="text-magenta">DEVELOPER</span>
         </h1>
         <p className="mt-4 max-w-2xl mx-auto">
